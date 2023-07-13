@@ -6,7 +6,7 @@ advertise for, or the platform you are advertising on about your product. Typica
 their future sales with every step they take to manipulate the cost of advertising their
 product. So let’s start the task of sales prediction with machine learning using Python.
 
-## This project files contains dataset, source code both ipynb and py and models files.
+## This project files contains dataset, source code in ipynb and models files.
 
 •	Importing Required Packages
 
